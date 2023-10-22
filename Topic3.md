@@ -6,6 +6,11 @@
 > Sniff and decode GM's custom CANBUS communication protocol found in their "GM Epsilon" Platform. These cars use a Gm style canbus system, with three canbus networks: The I, P, and C Bus. Here we will be focusing on the "I" bus wich is reffered to as the Instrimentation Bus.
 > The Goal is to sniff the network via the OBD II port, and this will allow us to collect data from the bus, using a simple canbus decoder aht for either an aurduino, or a Raspberry pi, and from that reverse engineer the protocol, and be able to provide requests, and replied on the network, aswell as collect data for display.
 
+
+### Progress:
+
+[Kanban board](https://github.com/users/T20A026/projects/2)
+
 ### Milestones:
 
 Phase 1:
@@ -33,4 +38,4 @@ This phase is the DF/Hunting phase where we will see how far we can go, and pote
 * Where ar elogs or data stored, and is it protected
 
 
-## [Kanban board](https://github.com/users/T20A026/projects/2)
+

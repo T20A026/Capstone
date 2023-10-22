@@ -31,3 +31,6 @@ This phase is the DF/Hunting phase where we will see how far we can go, and pote
 * See if any device can make requests or if you need to spoof a module
 * Can we make tasks/commands to th emodules, for alteretor uses
 * Where ar elogs or data stored, and is it protected
+
+
+## [Kanban board](https://github.com/users/T20A026/projects/2)

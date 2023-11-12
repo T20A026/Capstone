@@ -14,7 +14,7 @@
 ### Milestones:
 
 Phase 1:
-This Phase would conatin the Settup and OCnfiguration of our tools, as well as a basic understanding of the system
+This Phase would conatin the Settup and Configuration of our tools, as well as a basic understanding of the system
 
 * Research the data type, and the how the requests are formatted
 * Build and configure the device, to be used for collecting the data

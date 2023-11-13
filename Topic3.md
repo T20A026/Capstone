@@ -11,6 +11,10 @@
 
 [Kanban board](https://github.com/users/T20A026/projects/2)
 
+### Mind Map:
+
+[Click Here](https://github.com/T20A026/Capstone/blob/main/Mindmap2.md)
+
 ### Milestones:
 
 [Sprint 1:](https://github.com/T20A026/Capstone/blob/main/Sprint1.md)

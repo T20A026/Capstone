@@ -1,4 +1,4 @@
-# Topic Three, CANBUS Sniffing, and Control
+# Topic Two, CANBUS Sniffing, and Control
 
 ## Proposal 3
 

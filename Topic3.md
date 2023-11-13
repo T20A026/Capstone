@@ -13,7 +13,10 @@
 
 ### Milestones:
 
-Phase 1:
+[Sprint 1:](https://github.com/T20A026/Capstone/blob/main/Sprint1.md)
+
+Click Above for Details
+
 This Phase would conatin the Settup and Configuration of our tools, as well as a basic understanding of the system
 
 * Research the data type, and the how the requests are formatted
@@ -22,14 +25,20 @@ This Phase would conatin the Settup and Configuration of our tools, as well as a
 * Generate repeatable requests/results that can be either decoded or correlated
 * Generate a Chart or Resource for the layout of the requests
 
-Phase 2:
+[Sprint 2:](https://github.com/T20A026/Capstone/blob/main/Sprint2.md)
+
+Click Above for Details
+
 This phase is where we start making use of the data that we are gathering
 
 * Design a system to display data that could be usefull for the driver
 * Try and make commands/requests to the system
 * Output data to the User
 
-Phase 3:
+[Sprint 3:](https://github.com/T20A026/Capstone/blob/main/Sprint3.md)
+
+Click Above for Details
+
 This phase is the DF/Hunting phase where we will see how far we can go, and potental problems or damage that can be done
 
 * See if there is any message request filtering, or packet checking

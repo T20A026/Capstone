@@ -1,6 +1,6 @@
 # Topic Two, CANBUS Sniffing, and Control
 
-## Proposal 3
+## Proposal 2
 
 > **CANBUS Sniffing, and Control: **
 > Sniff and decode GM's custom CANBUS communication protocol found in their "GM Epsilon" Platform. These cars use a Gm style canbus system, with three canbus networks: The I, P, and C Bus. Here we will be focusing on the "I" bus wich is reffered to as the Instrimentation Bus.

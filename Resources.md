@@ -9,3 +9,5 @@
 [RPI Dash Project](https://www.bartonekdragracing.com/new-dash-build-coming-up/)
 
 [RPI RS485 CAN HAT Manual](https://www.waveshare.com/w/upload/2/29/RS485-CAN-HAT-user-manuakl-en.pdf)
+
+[CAN Overview of Saab](https://saabworld.net/showthread.php?t=25524)

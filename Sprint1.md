@@ -12,7 +12,11 @@ Sprint 1 Will be the initail configuartion and settup for the canbus controller,
 
 ## Reflections
 
-Week 02, Reflectiond
+Week 02, Reflection
 
 This week was spent reviewing the project, and checking some of the wiring components. I want to make sure that I dont damage any of the hardware, as I will be attempting to power the Rpi, and Hat from the OBD2 Port on the vehicle without external power. I did think about revising this as that would mean that the device would loose power when the car key is in the off position, may move to a 12V cigarette lighter plug adapter, and a battery bank to allow power even after the car is powered off. 
 
+
+Week 03, Reflection
+
+This week was light work, spent some time collecting tyhe cabling i would need, and the wiring and tools from storage for soldering the data wires from the OBD2 connector and to the power adapter. Has NECCDC this week so I didn't want to be too burned out for Saturday. 

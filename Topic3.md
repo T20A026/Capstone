@@ -19,6 +19,10 @@
 
 [Click Here](https://github.com/T20A026/Capstone/blob/main/Mindmap2.md)
 
+### Documentation:
+
+[Click Here for Documentation Pages](https://github.com/T20A026/Capstone/wiki)
+
 ### Milestones:
 
 [Sprint 1:](https://github.com/T20A026/Capstone/blob/main/Sprint1.md)

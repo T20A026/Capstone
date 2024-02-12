@@ -11,6 +11,10 @@
 
 [Kanban board](https://github.com/users/T20A026/projects/2)
 
+### Resources:
+
+[Resource Document](https://github.com/T20A026/Capstone/blob/main/Resources.md)
+
 ### Mind Map:
 
 [Click Here](https://github.com/T20A026/Capstone/blob/main/Mindmap2.md)

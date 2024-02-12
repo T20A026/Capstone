@@ -11,3 +11,9 @@
 [RPI RS485 CAN HAT Manual](https://www.waveshare.com/w/upload/2/29/RS485-CAN-HAT-user-manuakl-en.pdf)
 
 [CAN Overview of Saab](https://saabworld.net/showthread.php?t=25524)
+
+[Socket CAN with Wireshark](https://kentindell.github.io/2021/01/02/can2-wireshark/)
+
+[RPI Powering using GPIO](https://raspberrypi.stackexchange.com/questions/1617/how-do-i-supply-power-through-the-gpio)
+
+[Waveshare RS485 Documentation and Usage](https://www.waveshare.com/wiki/RS485_CAN_HAT)

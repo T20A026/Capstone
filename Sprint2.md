@@ -12,3 +12,8 @@ Sprint 2 Will start once connections are estabished, and basic collection fo dat
 
 ## Reflections
 
+Week 1 - 
+I picked up the wire i needed, as well as went and got my soldering equipment out of storage. I soldered up the connector, but havent had the time to go out and give the settup a test with the accual car. I need to verify the speed of the CAN connection being used on the cars bus, soo that I have it for when the dogle is cnnected or else I will recive nothing but garbled gibberish from the output.
+
+Week 2 - 
+I was very sick last week, on Thursday, Friday, Saturday, Sunday, and didnt make it to work, nor did I have my normal block tok work on capstone. Going to try and delegate more time on week 3 to make up for this. 

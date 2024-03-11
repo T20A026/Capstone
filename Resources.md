@@ -17,3 +17,5 @@
 [RPI Powering using GPIO](https://raspberrypi.stackexchange.com/questions/1617/how-do-i-supply-power-through-the-gpio)
 
 [Waveshare RS485 Documentation and Usage](https://www.waveshare.com/wiki/RS485_CAN_HAT)
+
+[Saab WIS on I and P Bus Communication](https://saabwisonline.com/b6/9-3/2009/3-electrical-system/bus-and-diagnostics-communication/technical-description-bus-and-diagnostics-communication/detailed-description-technical-description-bus-and-diagnostics-communication/p-bus-and-i-bus-2/)

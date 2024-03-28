@@ -26,3 +26,6 @@ Sucessfully connected to the CAN network of the car. It took some diagnostics, a
 
 Week 09 - 
 Still working on getting the can signals decoded. I have found some useful stuff related to simaler vehicals, as awell as some references to some fo the generic/standardized GM communication headers. I also found out that I was connected to the "P" Bus wich is the engine bus for this capture, and not the I BUS wich is also accessable from the OBD2 port. I am going to try and establish comms and a capture from the I bus on the car, but it is possible according to some resources that it is a single wire CAN network and this might not be readable from my controller. I am going to continue to dig into the CAN headers of the P bus as these will be helpful for some of my goals, and hopefully I can find a good resource, or at least a starting point to infeer the module headers. 
+
+Week 10 - 
+This week I was working on getting additonal sources of data, for knowing what each fo the messsgaes in the entwork capture I made where. I am going to ask on some forums, and alsoa ttempt to see if I can use a software, designed for accessing the system, and remove values, or check for data in that system. Currently this is the roadblock, and I have been banging my head on it, but I am going to see if there are any other ways for me to get this data, and try and readjust my scope. 

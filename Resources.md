@@ -19,3 +19,5 @@
 [Waveshare RS485 Documentation and Usage](https://www.waveshare.com/wiki/RS485_CAN_HAT)
 
 [Saab WIS on I and P Bus Communication](https://saabwisonline.com/b6/9-3/2009/3-electrical-system/bus-and-diagnostics-communication/technical-description-bus-and-diagnostics-communication/detailed-description-technical-description-bus-and-diagnostics-communication/p-bus-and-i-bus-2/)
+
+[GMLAN Bible Spreadsheet](https://docs.google.com/spreadsheets/d/1qEwOXSr3bWoc2VUhpuIam236OOZxPc2hxpLUsV0xkn0/edit?pli=1&pli=1#gid=1)

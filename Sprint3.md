@@ -6,7 +6,7 @@ Sprint 3 is the 3rd and final sprint for this project. In this final sprint, I w
 
 ## Breakdown
 
-* Continue attempting to get a good decode list running, for the GMLAN netowkring
+* Continue attempting to get a good decode list running, for the GMLAN netwokring
 * Prove they are exploites and elaborate, as well as complie a report of any findings on protection/durability mechanisims wich prevented easy exploit. 
 * Create a Instructables artical outline building my tool, and using it on multiple vehicals, as well as a conprensive outline of how to build this for beginners.
 

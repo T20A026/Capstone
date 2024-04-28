@@ -13,7 +13,7 @@
 
 ### Resources:
 
-[Resource Document]([https://github.com/T20A026/Capstone/blob/main/Resources.md](https://github.com/T20A026/Capstone/wiki/References))
+[Resource Document](https://github.com/T20A026/Capstone/wiki/References)
 
 ### Mind Map:
 
